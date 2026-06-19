@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an AI Engineer at Votee Ltd<br>🤝 I'm interested in projects that can bring positive impacts on societies<br>👯 I’m looking for volunteer opportunities for open-source projects for NGOs and charity organizations.<br>🌱 I’m currently learning about LLM, Machine learning, and production-ready machine learning systems design<br>💬 Ask me about AI technologies
+🔭 I’m currently working as an AI Engineer at Votee Ltd<br>🤝 Interested in projects that can bring positive impacts on societies<br>👯 Looking for volunteer opportunities for open-source projects for NGOs and charity organizations.<br>🌱 Currently learning about LLM, Machine learning, and production-ready machine learning systems design<br>💬 Ask me about AI technologies
 
 
 ## 🌐 Socials:
